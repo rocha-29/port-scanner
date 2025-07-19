@@ -1,6 +1,18 @@
-# 🔍 Port Scanner
+# 🔍 port-scanner
 
-A simple and multithreaded Python-based port scanner built by **D_R0x** as part of my cybersecurity portfolio.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Language: Python](https://img.shields.io/badge/Python-3.8%2B-yellow.svg)](https://www.python.org/)
+
+A simple Python port scanner built as part of my cybersecurity portfolio.  
+This tool scans a target host for open TCP ports using multithreading for speed.
+
+---
+
+📦 Requirements
+This tool uses only the Python standard library, so no extra installations are needed.
+However, for consistency across environments, you can include this empty requirements.txt:
+# requirements.txt
+# No external libraries required.
 
 ## 📌 Overview
 
